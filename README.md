@@ -112,18 +112,3 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está disponible bajo licencia abierta. Siéntete libre de usarlo, modificarlo y distribuirlo.
-
-## 👨‍💻 Autor
-
-[@santyshark](https://github.com/santyshark)
-
-## 📞 Soporte
-
-¿Tienes problemas? Abre un [Issue](https://github.com/santyshark/SERVER/issues) en el repositorio.
-
----
-
-**Última actualización**: Octubre 2024
